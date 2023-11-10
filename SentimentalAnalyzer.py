@@ -70,3 +70,5 @@ for category in categories:
     plt.xlabel('Sentiment')
     plt.ylabel('Count')
     plt.show()
+
+#teste
